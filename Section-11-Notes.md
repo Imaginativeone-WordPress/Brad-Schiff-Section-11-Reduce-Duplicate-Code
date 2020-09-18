@@ -1,0 +1,5 @@
+- [ ] Section 11: Cleaner Code (Less Duplication) 1 / 4|43min
+  - [ ] 45. Reduce Duplicate Code - Create Our Own Function 20min
+  - [ ] 46. Quick Fix For Page Banner Function 1min
+  - [ ] 47. Using Our "pageBanner" Function 11min
+  - [ ] 48. Reduce Duplication - "get_template_part()" 11min
